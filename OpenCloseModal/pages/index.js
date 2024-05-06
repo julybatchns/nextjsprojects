@@ -1,6 +1,6 @@
-"use client"
-import { useState } from 'react';
-import Modal from '../components/Modal';
+"use client";
+import { useState } from "react";
+import Modal from "../components/Modal";
 
 const HomePage = () => {
   const [isModalOpen, setModalOpen] = useState(false);
